@@ -6,6 +6,7 @@ def turn(board)
   else
     puts "Please enter a valid square:"
     index = gets.chomp
+  end
 end
 
 def valid_move?(board, index)
