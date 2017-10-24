@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 puts "Please enter 1-9:"
-input_index = get.chomp
-input_to_index(input_index)
+index = get.chomp
+input_to_index(index)
